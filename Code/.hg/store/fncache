@@ -1,0 +1,6 @@
+data/Adafruit_NeoPixel.lib.i
+data/PinDetect_KL25Z.lib.i
+data/mbed.bld.i
+data/USBDevice.lib.i
+data/MMA8451Q.lib.i
+data/main.cpp.i
